@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiPoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b640eb62dcad560b0fb67767196749d9a3e3029b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiPoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiPoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
